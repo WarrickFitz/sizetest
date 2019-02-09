@@ -7,3 +7,4 @@ lerna exec npm install
 yarn build
 cd examples/sizetest/
 yarn start
+
